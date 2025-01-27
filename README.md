@@ -24,6 +24,10 @@ A user-friendly Java application for analyzing password strength, providing reco
 ## Screenshots
 
 ![Screenshot 2025-01-23 075711](https://github.com/user-attachments/assets/1e16458e-06ea-490e-a830-51eda8adc32c)
+![image](https://github.com/user-attachments/assets/f4149cfe-525c-4ce3-9dbf-bc610f43d90d)
+![image](https://github.com/user-attachments/assets/ecad5bf6-fc02-4a17-99f0-b718303d4e89)
+![image](https://github.com/user-attachments/assets/11c8e204-17dd-4fce-948f-7ee32ec3b2f7)
+
 
 ## How It Works
 
